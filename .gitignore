@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+faqenv/
+venv/
+myenv/
+
+# React
+node_modules/
+dist/
+
+# Vite
+.vite/
+
+# OS files
+.DS_Store
+Thumbs.db
