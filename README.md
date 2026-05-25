@@ -88,13 +88,13 @@ You can return any product within 7 days.
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/your-username/faq-chatbot-fastapi-react.git
+git clone https://github.com/your-username/CodeAlpha_FAQAssistant.git
 ```
 
 Move into project:
 
 ```bash
-cd faq-chatbot-fastapi-react
+cd your-project-folder
 ```
 
 ---
